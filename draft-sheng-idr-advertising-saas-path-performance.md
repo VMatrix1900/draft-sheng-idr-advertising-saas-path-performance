@@ -12,8 +12,8 @@ obsoletes:
 updates:
 # date: 2023-10-19 -- date is filled in automatically by xml2rfc if not given
 
-area: routing
-workgroup: IDR
+area: "Routing"
+workgroup: "Inter-Domain Routing"
 
 kw:
   - SDWAN
