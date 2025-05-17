@@ -32,9 +32,15 @@ author:
   name: Hang Shi
   organization: Huawei
   email: shihang9@huawei.com
-  role: editor
   street: Beiqing Road
   city: Beijing
+  country: China
+ -
+  ins: J. Dong
+  name: Jie Dong
+  role: editor
+  organization: Huawei
+  email: jie.dong@huawei.com
   country: China
  -
   ins: L. Dunbar
