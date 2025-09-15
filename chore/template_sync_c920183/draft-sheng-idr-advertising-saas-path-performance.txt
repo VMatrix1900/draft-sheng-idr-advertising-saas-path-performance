@@ -5,10 +5,10 @@
 Inter-Domain Routing                                            C. Sheng
 Internet-Draft                                                    H. Shi
 Intended status: Standards Track                            J. Dong, Ed.
-Expires: 29 January 2026                                          Huawei
+Expires: 19 March 2026                                            Huawei
                                                                L. Dunbar
                                                                Futurewei
-                                                            28 July 2025
+                                                       15 September 2025
 
 
           Advertising SaaS Path Performance Metrics using BGP
@@ -50,7 +50,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 29 January 2026.
+   This Internet-Draft will expire on 19 March 2026.
 
 Copyright Notice
 
