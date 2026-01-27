@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-01-25T01:55:46.665837+00:00",
+  "timestamp": "2026-01-27T01:52:06.230593+00:00",
   "repo": "VMatrix1900/draft-sheng-idr-advertising-saas-path-performance",
   "labels": [
     {
@@ -235,7 +235,7 @@
       "id": "PR_kwDOKj2Q0M6ohonQ",
       "title": "upstream merge template repository",
       "url": "https://github.com/VMatrix1900/draft-sheng-idr-advertising-saas-path-performance/pull/6",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "VMatrix1900",
       "authorAssociation": "OWNER",
       "assignees": [],
@@ -244,13 +244,49 @@
       ],
       "body": "Merge https://github.com/martinthomson/internet-draft-template c920183",
       "createdAt": "2025-09-15T00:44:47Z",
-      "updatedAt": "2025-09-15T00:44:48Z",
+      "updatedAt": "2026-01-26T00:55:36Z",
       "baseRepository": "VMatrix1900/draft-sheng-idr-advertising-saas-path-performance",
       "baseRefName": "main",
       "baseRefOid": "772db20b3e4ff56005a312c462f10ae99231bbac",
       "headRepository": "VMatrix1900/draft-sheng-idr-advertising-saas-path-performance",
       "headRefName": "chore/template_sync_c920183",
       "headRefOid": "6ae68ec68413d716308e3902397c20a286394557",
+      "closedAt": "2026-01-26T00:55:35Z",
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "VMatrix1900",
+          "authorAssociation": "OWNER",
+          "body": "[actions-template-sync] :construction_worker: automatically closed because there is a new open PR",
+          "createdAt": "2026-01-26T00:55:34Z",
+          "updatedAt": "2026-01-26T00:55:34Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOKj2Q0M6_Rf1k",
+      "title": "upstream merge template repository",
+      "url": "https://github.com/VMatrix1900/draft-sheng-idr-advertising-saas-path-performance/pull/7",
+      "state": "OPEN",
+      "author": "VMatrix1900",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "template_sync"
+      ],
+      "body": "Merge https://github.com/martinthomson/internet-draft-template 15c7c96",
+      "createdAt": "2026-01-26T00:55:37Z",
+      "updatedAt": "2026-01-26T00:55:38Z",
+      "baseRepository": "VMatrix1900/draft-sheng-idr-advertising-saas-path-performance",
+      "baseRefName": "main",
+      "baseRefOid": "772db20b3e4ff56005a312c462f10ae99231bbac",
+      "headRepository": "VMatrix1900/draft-sheng-idr-advertising-saas-path-performance",
+      "headRefName": "chore/template_sync_15c7c96",
+      "headRefOid": "c7cc0a52ffd93e166ce1bde08a838f0e32629269",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
